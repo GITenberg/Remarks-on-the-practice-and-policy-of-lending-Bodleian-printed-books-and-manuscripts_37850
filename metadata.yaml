@@ -1,0 +1,28 @@
+_repo: Remarks-on-the-practice-and-policy-of-lending-Bodleian-printed-books-and-manuscripts_37850
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chandler, Henry W. (Henry William)
+    birthdate: 1828
+    deathdate: 1889
+    gutenberg_agent_id: '39093'
+    url: http://www.gutenberg.org/2009/agents/39093
+    wikipedia: http://en.wikipedia.org/wiki/Henry_William_Chandler
+description: ''
+gutenberg_issued: '2011-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37850'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Bodleian Library'
+- !lcsh 'Library circulation and loans'
+title: Remarks on the practice and policy of lending Bodleian printed books and manuscripts
+url: http://www.gutenberg.org/ebooks/37850
